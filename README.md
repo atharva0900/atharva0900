@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:atharvabhale9@gmail.com"><img src="https://img.shields.io/badge/Email-atharvabhale9%40gmail.com-red?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="PASTE_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/atharva-bhale?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Mumbai (Relocating)-lightgrey?style=flat"/>
 </p>
 

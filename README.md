@@ -71,8 +71,8 @@ Full Stack Developer with internship experience building responsive web applicat
 **Worko – Candidate Referral System**
 <br/>`React` `Node.js` `Express` `MongoDB`
 <br/>
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](PASTE_WORKO_GITHUB_URL_HERE)
-[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](PASTE_WORKO_LIVE_URL_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/atharva0900/Worko-Referrals)
+[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://candidate-referral-dashboard.netlify.app/)
 
 - Full-stack MERN referral platform with search, filtering, pagination, and status tracking (Pending → Reviewed → Hired).
 - Designed RESTful APIs with Node.js and Express, integrated MongoDB Atlas, and built a real-time candidate metrics dashboard.
@@ -80,8 +80,8 @@ Full Stack Developer with internship experience building responsive web applicat
 **Gym Management System**
 <br/>`React` `Spring Boot` `MySQL`
 <br/>
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](PASTE_GYMSYSTEM_GITHUB_URL_HERE)
-[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](PASTE_GYMSYSTEM_LIVE_URL_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/atharva0900/gym-management-system)
+[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://gymt3fitness.netlify.app/)
 
 - Full-stack system with role-based login, CRUD operations, and end-to-end React–Spring Boot–MySQL integration.
 
@@ -89,7 +89,7 @@ Full Stack Developer with internship experience building responsive web applicat
 <br/>`React` `JavaScript` `CSS`
 <br/>
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/atharva0900/Chidya-udd-game)
-[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](PASTE_CHIDIYAUDD_LIVE_URL_HERE)
+[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat&logo=netlify&logoColor=white)](https://chidya-udd.netlify.app/)
 
 - Interactive browser game with real-time scoring, dynamic UI rendering, and game state managed via React hooks. Deployed on Netlify.
 

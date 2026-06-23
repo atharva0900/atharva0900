@@ -105,7 +105,7 @@ Full Stack Developer with internship experience building responsive web applicat
 
 **Bachelor of Computer Science (BCS)**
 <br/>Deogiri College, Aurangabad — Dr. BAMU University
-<br/><sub>Jan 2022 – Jul 2025 · CGPA: 71.60%</sub>
+<br/><sub>Jan 2019 – Jul 2022 · CGPA: 71.60%</sub>
 
 -----
 
